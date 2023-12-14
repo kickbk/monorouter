@@ -1,0 +1,7 @@
+{
+  "extends": "@tsconfig/recommended/tsconfig.json",
+  "include": ["src", "declarations.d.ts", "metroRequire.d.ts"],
+  "compilerOptions": {
+    "jsx": "react-jsx",
+  }
+}
